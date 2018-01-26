@@ -23,7 +23,13 @@
  
  */
 // Answer question 4 below
-
+var numberOfApps : Int
+print("The number of apps is an integer because there are no half app.")
+var numberOfHours : Double
+print("The total number of hours is a decimal number since it including part of an hour")
+let mostPopularApp : String
+let theCurrentDate : String
+print("The name of the app and date are stored in characters and numbers.")
 /*:
  ## Now share your understanding
  
