@@ -24,6 +24,14 @@
  
  */
 // Answer question 2 below
+let bookName : String
+print("The book name won't change")
+var copiesSold : Int
+print("The number of copies sold will increase")
+let authorName : String
+let sellingPrice : Double
+let yearPublished : Int
+print("The author's name and selling price and year published won't change since they are immutable")
 
 /*:
  ## Now share your understanding
